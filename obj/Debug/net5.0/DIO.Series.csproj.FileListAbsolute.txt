@@ -1,0 +1,16 @@
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Thiago Dourado\Documents\TI\Cursos\DIO-Bootcamp-.Net\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
